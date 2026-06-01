@@ -263,8 +263,8 @@ export const education: Education[] = [
     institution: 'Addis Ababa University',
     degree: 'Bachelor of Science',
     field: 'Computer Science',
-    startYear: 2019,
-    endYear: 2023,
+    startYear: 2024,
+    endYear: 2027,
     description:
       'Studied core computer science fundamentals including algorithms, data structures, operating systems, databases, and software engineering.',
     achievements: [
@@ -278,8 +278,8 @@ export const education: Education[] = [
     institution: '10 Academy',
     degree: 'Certificate',
     field: 'Artificial Intelligence & Data Science',
-    startYear: 2023,
-    endYear: 2023,
+    startYear: 2025,
+    endYear: 2025,
     description:
       'Intensive program covering end-to-end machine learning workflows, data engineering, and collaborative AI project development.',
     achievements: [
